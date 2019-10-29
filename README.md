@@ -3,7 +3,6 @@ ESX Pacific Standard bank robbery
 [REQUIREMENTS]
 
   * esx_policejob => https://github.com/FXServer-ESX/fxserver-esx_policejob
-  * esx_ambulancejob => https://github.com/ESX-Org/esx_ambulancejob
 
 [INSTALLATION]
 
