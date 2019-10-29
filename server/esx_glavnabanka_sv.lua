@@ -129,7 +129,7 @@ AddEventHandler('esx_glavnabanka:gioielli1', function()
 else
 	reward = math.random(5000, 10000)
 	xPlayer.addAccountMoney('black_money', reward)
-	TriggerClientEvent('esx:showNotification', source, 'Uzeli ste ' ..reward.. ' prljavog novca')
+	TriggerClientEvent('esx:showNotification', source, 'You took ' ..reward.. ' dirty money')
 end
 
 end)
