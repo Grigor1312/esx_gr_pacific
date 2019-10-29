@@ -18,4 +18,4 @@ start esx_gr_pacific
 
 [ORIGINAL SCRIPT]
 
-  * esx_holdup => https://github.com/ESX-Org/esx_holdup
+  * esx_vangelico_robbery => https://github.com/ESX-PUBLIC/esx_vangelico_robbery
